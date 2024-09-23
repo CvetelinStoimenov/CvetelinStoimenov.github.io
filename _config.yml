@@ -16,8 +16,6 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
 
@@ -26,11 +24,11 @@ urls:
 
 author_logo: profile.png
 author: Cvetelin Radkov Stoimenov
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author_bio: Hi, my name is Cvetelin Stoimenov. Welcome to my portfolio site, built using devlopr-jekyll!
 author_email: "stoimenovv@gmail.com"
 author_location: Sofia, Bulgaria
 author_website_url: "https://cvetelinstoimenov.github.io"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+typewrite-text: QA Automation Engineer | Technology Enthusiast | Building Solutions for Better Software Quality
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -72,10 +70,10 @@ author_project_details:
 
 # social links
 # twitter_username: xplor4r
-github_username:  sujaykundu777
+github_username:  CvetelinStoimenov
 # instagram_username: xplor4r
 # facebook_username: johndoe
-linkedin_username: johndoe
+linkedin_username: cvetelin-stoimenov
 # behance_username: johndoe
 # medium_username: johndoe
 # telegram_username: johndoe
@@ -95,7 +93,7 @@ mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50b
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+formspree_email: stoimenovv@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
