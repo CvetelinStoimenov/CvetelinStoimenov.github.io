@@ -1,7 +1,7 @@
 ---
 name: Cvetelin Radkov Stoimenov
 username: CvetelinStoimenov
-bio: "Full Stack Web Developer, based in Bangalore, India"
+bio: "QA Engineer, based in Sofia, Bulgaria"
 site: https://cvetelinstoimenov.github.io/
 avatar: xplor4r.png
 email: stoimenovv@gmail.com
