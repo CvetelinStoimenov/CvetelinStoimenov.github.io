@@ -1,6 +1,9 @@
 <style>
 /* change cover_img in config.yml */
 .jumbotron {
+    display: flex; /* Add Flexbox */
+    flex-direction: column; /* Stack elements vertically */
+    align-items: center; /* Center elements horizontally */
     background-color: var(--main-background-color) !important;
     background-image: url('/assets/img/{{site.hero_cover_img}}');
     text-align: center;
@@ -9,13 +12,38 @@
     background-position: center;
 }
 
+.jumbotron-heading, .lead {
+    color: #fff;
+}
+
+.jumbotron-heading {
+    font-size: 24px; /* Adjust size */
+    margin: 10px 0; /* Adjust margin */
+}
+
+.lead {
+    font-size: 18px; /* Adjust size */
+    margin: 10px 0; /* Adjust margin */
+}
+
+/* Media query for smaller screens */
+@media (max-width: 425px) {
+    .jumbotron-heading {
+        font-size: 20px; /* Smaller font size */
+    }
+
+    .lead {
+        font-size: 16px; /* Smaller font size */
+    }
+
+    .jumbotron-btns {
+        flex-direction: column; /* Stack buttons vertically on small screens */
+    }
+}
+
 .jumbotron-btns {
     display: block;
     margin-top: 50px;
-}
-
-.jumbotron-heading, .lead {
-    color: #fff;
 }
 </style>
 
