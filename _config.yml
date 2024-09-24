@@ -37,7 +37,9 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 author_work_experiences:
             - company_name: AUTO HELP Ltd, Sofia
               company_logo: google.png
-              company_url: https://www.autohelp.bg/
+              company_url: 
+                name: "AutoHelp"
+                url: "https://www.autohelp.bg/"
               designation: Sales Associate
               description: As an Aftermarket Sales Associate, I managed product and service knowledge, optimized pricing strategies, and drove sales. I ensured accurate inventory control and minimized discrepancies through efficient stock management. A key part of my role was building strong customer relationships, handling data entry, and creating analytical reports. By automating processes using VBA, I improved both efficiency and accuracy. My strong organizational and analytical skills, combined with effective time management, enabled me to consistently meet objectives.
               visibility: true
