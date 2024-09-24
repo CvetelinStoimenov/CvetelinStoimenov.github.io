@@ -4,30 +4,13 @@ layout: full-width
 
 <script>
   $(document).ready(function() {
-    // Typewrite effect for the hero section
     $("#typewriteText").typewrite({
       actions: [{ type: "{{site.typewrite-text}}" }]
     });
-
-    // Show recent articles on scroll
-    $(window).scroll(function() {
-      var scrollTop = $(this).scrollTop();
-      var windowHeight = $(this).height();
-
-      // Check if the user has scrolled down to a certain point
-      if (scrollTop + windowHeight > 300) { // Adjust the value as needed
-        $("#recent-articles").fadeIn(); // Fade in the articles section
-      }
-    });
   });
 </script>
-
-<!-- hero section -->
-{%- include hero.html -%}
-
-<div class="col-lg-8 offset-md-2">
-  <!-- Recent Articles Section -->
-  <div class="recent-articles" id="recent-articles" style="display: none;">
-    {%- include recent_articles.html -%}
-  </div>
-</div>
+    <!-- hero section-->
+    {%- include hero.html -%}
+    <div class="col-lg-8 offset-md-2">
+      {%- include recent_articles.html -%}
+    </div>
