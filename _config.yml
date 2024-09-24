@@ -3,7 +3,7 @@ subtitle: A Portfolio Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "https://rxresu.me/cvetelinstoimenov/junior-quality-assurance" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://cvetelinstoimenov.github.io/" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -27,7 +27,7 @@ author: Cvetelin Stoimenov
 author_bio: Hi, my name is Cvetelin Stoimenov. Welcome to my portfolio site, built using devlopr-jekyll!
 author_email: "stoimenovv@gmail.com"
 author_location: Sofia, Bulgaria
-author_website_url: "https://cvetelinstoimenov.github.io"
+author_website_url: "https://rxresu.me/cvetelinstoimenov/junior-quality-assurance"
 typewrite-text: QA Automation Engineer | Technology Enthusiast | Building Solutions for Better Software Quality
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
