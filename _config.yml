@@ -11,7 +11,7 @@ urls:
     - text: Home
       url: /
     - text: CV
-      URL: https://rxresu.me/cvetelinstoimenov/junior-quality-assurance
+      url: https://rxresu.me/cvetelinstoimenov/junior-quality-assurance
     - text: About
       url: /about
     - text: Blog
