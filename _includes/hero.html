@@ -1,7 +1,7 @@
 <style>
 /* change cover_img in config.yml */
 .jumbotron {
-    display: flex; /* Add Flexbox */
+    display: flex; /* Flexbox layout */
     flex-direction: column; /* Stack elements vertically */
     align-items: center; /* Center elements horizontally */
     background-color: var(--main-background-color) !important;
@@ -17,13 +17,15 @@
 }
 
 .jumbotron-heading {
-    font-size: 24px; /* Adjust size */
-    margin: 10px 0; /* Adjust margin */
+    font-size: 24px; /* Base size */
+    margin: 10px 0; /* Margin */
+    text-align: center; /* Center text */
 }
 
 .lead {
-    font-size: 18px; /* Adjust size */
-    margin: 10px 0; /* Adjust margin */
+    font-size: 18px; /* Base size */
+    margin: 10px 0; /* Margin */
+    text-align: center; /* Center text */
 }
 
 /* Media query for smaller screens */
@@ -50,8 +52,10 @@
 <!-- Home hero section -->
 <div class="jumbotron">
     <img class="author-profile-img" src="{{site.url}}{{site.baseurl}}/assets/img/{{site.author_logo}}" alt="Profile of {{site.author}}" />
-    <p class="jumbotron-heading">Hi, I am {{site.author}}!</p>
-    <p class="lead" id="typewriteText"></p>
+    <div class="header-container">
+        <p class="jumbotron-heading">Hi, I am {{site.author}}!</p>
+        <p class="lead" id="typewriteText"></p>
+    </div>
 
     {% comment %}
     <span>
