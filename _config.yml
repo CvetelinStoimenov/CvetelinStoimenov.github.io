@@ -10,6 +10,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: Home
       url: /
+    - text: CV
+      URL: "https://rxresu.me/cvetelinstoimenov/junior-quality-assurance"
     - text: About
       url: /about
     - text: Blog
@@ -27,7 +29,7 @@ author: Cvetelin Stoimenov
 author_bio: Hi, my name is Cvetelin Stoimenov. Welcome to my portfolio site, built using devlopr-jekyll!
 author_email: "stoimenovv@gmail.com"
 author_location: Sofia, Bulgaria
-author_website_url: "https://rxresu.me/cvetelinstoimenov/junior-quality-assurance"
+author_website_url: [CV]("https://rxresu.me/cvetelinstoimenov/junior-quality-assurance")
 typewrite-text: QA Automation Engineer | Technology Enthusiast | Building Solutions for Better Software Quality
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
