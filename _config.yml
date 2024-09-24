@@ -1,4 +1,4 @@
-title: Cvetelin Radkov Stoimenov
+title: Cvetelin Stoimenov
 subtitle: A Portfolio Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
@@ -23,7 +23,7 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: Cvetelin Radkov Stoimenov
+author: Cvetelin Stoimenov
 author_bio: Hi, my name is Cvetelin Stoimenov. Welcome to my portfolio site, built using devlopr-jekyll!
 author_email: "stoimenovv@gmail.com"
 author_location: Sofia, Bulgaria
