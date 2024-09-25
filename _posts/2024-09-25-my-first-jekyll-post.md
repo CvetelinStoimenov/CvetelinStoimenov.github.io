@@ -5,7 +5,7 @@ summary: "A Search for Growth and New Opportunities"
 author: stoimenov
 date: '2024-07-25 15:03:23 +0530'
 category: career
-thumbnail: 
+thumbnail: https://stupiddope.com/wp-content/uploads/2023/06/Unlocking-New-Possibilities-The-Significance-of-Distinguishing-Real-Opportunities.jpg
 keywords: QA, Sales Associate, AUTO HELP, Growth, opportunity, ambitions
 permalink: 
 usemathjax: true
