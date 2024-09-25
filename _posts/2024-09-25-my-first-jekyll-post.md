@@ -4,7 +4,7 @@ title:  "Why I Left My Position as Sales Associate at AUTO HELP Ltd"
 summary: "A Search for Growth and New Opportunities"
 author: stoimenov
 date: '2024-07-25 15:03:23 +0530'
-category: jekyll
+category: career
 thumbnail: 
 keywords: QA, Sales Associate, AUTO HELP, Growth, opportunity, ambitions
 permalink: 
@@ -12,7 +12,7 @@ usemathjax: true
 ---
 
 <p><img src="https://stupiddope.com/wp-content/uploads/2023/06/Unlocking-New-Possibilities-The-Significance-of-Distinguishing-Real-Opportunities.jpg" alt="Dinosaur">
-  <h1>Why I Left My Position as Sales Associate at AUTO HELP Ltd: A Search for Growth and New Opportunities</h1>
+
 <p>&emsp;After several years of dedicated work as a Sales Associate at AUTO HELP Ltd, 
   I made the difficult decision to move on. This was not an easy choice, as I had gained 
   valuable skills and experiences in the sales industry, especially in working with automotive 
