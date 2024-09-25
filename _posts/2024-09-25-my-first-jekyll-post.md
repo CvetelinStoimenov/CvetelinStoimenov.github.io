@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Why I Left My Position as Sales Associate at AUTO HELP Ltd"
-summary: "A Search for Growth and New Opportunities"
+title:  "Embracing Change: My Path from AUTO HELP Ltd to Tech"
+summary: "I transitioned from the automotive sales industry to tech, choosing a new path in QA to pursue my passion for growth, technology, and continuous learning."
 author: stoimenov
 date: '2024-07-25 15:03:23 +0530'
 category: career
@@ -10,8 +10,6 @@ keywords: QA, Sales Associate, AUTO HELP, Growth, opportunity, ambitions
 permalink: 
 usemathjax: true
 ---
-
-<p><img src="https://stupiddope.com/wp-content/uploads/2023/06/Unlocking-New-Possibilities-The-Significance-of-Distinguishing-Real-Opportunities.jpg" alt="Dinosaur">
 
 <p>&emsp;After several years of dedicated work as a Sales Associate at AUTO HELP Ltd, 
   I made the difficult decision to move on. This was not an easy choice, as I had gained 
