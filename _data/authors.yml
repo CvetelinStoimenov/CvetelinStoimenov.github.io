@@ -45,3 +45,20 @@ xplor4r:
         url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
       - title: "facebook"
         url: "https://www.facebook.com/sujay.kundu2"
+
+stoimenov:
+   name: Cvetelin Stoimenov
+   username: stoimenov
+   site: https://cvetelinstoimenov.github.io/
+   avatar: xplor4r.png
+   bio: "QA Automation Engineer, based in Sofia, Bulgaria"
+   email: stoimenovv@gmail.com
+   social:
+      - title: "github"
+        url: "https://github.com/CvetelinStoimenov"
+      - title: "linkedin"
+        url: "https://www.linkedin.com/in/cvetelin-stoimenov"
+#      - title: "youtube"
+#        url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
+#      - title: "facebook"
+#        url: "https://www.facebook.com/sujay.kundu2"
