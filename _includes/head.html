@@ -4,6 +4,15 @@
     {% if {page.title %}{{ page.title }} - {{site.title}}{% else %}{{ site.title }} - {{
     site.subtitle }}{% endif %}
   </title>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-28QGE160TJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-28QGE160TJ');
+</script>
   <meta http-equip="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   {% if page.summary %}
