@@ -128,19 +128,21 @@ layout: default
       {% for project in site.author_project_details %} {% if project.visibility
       == true %}
       <div class="row" id="project-card">
+        {% comment %}
         <div class="col-md-6">
           <img
             src="{{site.url}}{{site.baseurl}}/assets/img/{{project.project_thumbnail}}"
             class="project-img"
           />
         </div>
+        {% endcomment %}
         <div class="col-md-4 center">
           <h4 class="experience-title">{{ project.project_title }}</h4>
           <h6 class="experience-info">{{ project.project_info}}</h6>
           <p class="experience-desc">{{ project.project_description }}</p>
           <p>
             <a class="project-link" href="{{project.project_url}}"
-              >{{ project.project_url}}</a
+              >View Project</a
             >
           </p>
         </div>
@@ -155,17 +157,21 @@ layout: default
       {% for exp in site.author_work_experiences %} {% if exp.visibility == true
       %}
       <div class="row">
+        
+        {% comment %}
         <div class="col-md-2">
           <img
             src="{{site.url}}{{site.baseurl}}/assets/img/{{ exp.company_logo }}"
             class="company-logo"
           />
         </div>
+        {% endcomment %}
+        
         <div class="col-md-6">
           <h4 class="experience-title">{{ exp.designation }}</h4>
           <h6 class="experience-info">{{ exp.company_name}}</h6>
           <p class="experience-desc">{{ exp.description }}</p>
-          <p><a href="{{exp.company_url}}">{{ exp.company_url}}</a></p>
+          <p><a href="{{exp.company_url}}">View company</a></p>
         </div>
       </div>
       {% endif %} {% endfor %}
@@ -177,17 +183,21 @@ layout: default
       {% for detail in site.author_education_details %} {% if detail.visibility
       == true %}
       <div class="row">
+        
+        {% comment %}
         <div class="col-md-2">
           <img
             src="{{site.url}}{{site.baseurl}}/assets/img/{{ detail.college_logo}}"
             class="company-logo"
           />
         </div>
+        {% endcomment %}
+        
         <div class="col-md-6">
           <h4 class="experience-title">{{detail.college_degree }}</h4>
           <h6 class="experience-info">{{detail.college_name}}</h6>
           <p class="experience-desc">{{detail.description}}</p>
-          <p><a href="{{detail.college_url}}">{{ detail.college_url}}</a></p>
+          <p><a href="{{detail.college_url}}">Details</a></p>
         </div>
       </div>
       {% endif %} {% endfor %}
