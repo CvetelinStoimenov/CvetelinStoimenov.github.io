@@ -1,5 +1,5 @@
 title: Cvetelin Stoimenov
-subtitle: A Portfolio Jekyll Theme Built for Developers
+subtitle: QA Engineer showcasing projects and passion for technology
 description: >- # this means to ignore newlines until "baseurl:"
   Cvetelin Stoimenov, a QA Engineer, showcasing projects and a passion for technology.
 
@@ -36,38 +36,43 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 # Experiences
 author_work_experiences:
             - company_name: AUTO HELP Ltd, Sofia
-              company_logo:
               company_url: https://www.autohelp.bg
               designation: Sales Associate
               description: As an Aftermarket Sales Associate, I managed product and service knowledge, optimized pricing strategies, and drove sales. I ensured accurate inventory control and minimized discrepancies through efficient stock management. A key part of my role was building strong customer relationships, handling data entry, and creating analytical reports. By automating processes using VBA, I improved both efficiency and accuracy. My strong organizational and analytical skills, combined with effective time management, enabled me to consistently meet objectives.
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Germanos Telecom Bulgaria PLC
+              company_url: https://www.yettel.bg
+              designation: Shop Manager
+              description: Building on my success as Assistant Shop Manager, I was promoted to Shop Manager within 8 months. This promotion was driven by my consistently increasing sales, leading teams, and improving operational efficiency. I applied the strategies that had placed me among the top salespeople nationwide to enhance store performance. In this role, I took full responsibility for managing daily operations, mentoring the sales team, and ensuring high levels of customer satisfaction, which contributed to the store’s sustained success. Under my leadership, the store earned the ‘Store of the Month’ trophy, recognizing my ability to drive both team performance and results.
+              visibility: true
+            - company_name: Germanos Telecom Bulgaria PLC
+              company_url: https://www.yettel.bg
+              designation: Assistant Shop Manager
+              description: Thanks to my consistently high performance as a shop assistant, I was promoted to assistant shop manager within less than a year. I maintained my position among the top 5 salespeople nationwide by consistently meeting and exceeding sales targets. My ability to understand customer needs and offer tailored solutions played a key role in this achievement. As a deputy manager, I continued to drive sales and contributed to the overall success of the store, while also taking on additional responsibilities in team management and operational oversight.
+              visibility: true
+            - company_name: Germanos Telecom Bulgaria PLC
+              company_url: https://www.yettel.bg
+              designation: Shop assistant
+              description: As a shop assistant in a telecommunications company, I developed in-depth knowledge of the company’s products and services, allowing me to effectively present and offer customized solutions to meet clients’ specific needs. By consistently achieving personal targets, I was recognized as the top performer in the store and regularly ranked among the top 5 sellers nationwide in monthly sales charts. My strong communication skills and product expertise were key in driving sales and ensuring high levels of customer satisfaction.
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_name: SoftUni
+                college_url: https://softuni.bg/
+                college_degree: QA Engineer
+                description: Completed a comprehensive QA Engineer program, mastering both manual and automated testing methodologies. Gained expertise in tools such as Selenium, Postman, and JMeter for functional and performance testing. Developed proficiency in CI/CD processes using GitHub Actions and Docker. Acquired strong programming skills in C# and JavaScript, focusing on OOP principles and unit testing, along with hands-on experience in RESTful API testing and database management.
                 visibility: true
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_title: Automated UI Tests for Foody Web Application
+                project_description: Developed automated UI tests for the Foody web application, focusing on core CRUD functionalities and user interactions.
+                project_url: https://shorturl.at/FlnCl
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_title: End-to-End Testing Project with Playwright
+                project_description: Developed comprehensive end-to-end tests for a web application using Playwright, testing user authentication, navigation, and CRUD operations.
+                project_url: https://shorturl.at/OtrDB
                 visibility: true
 
 # social links
