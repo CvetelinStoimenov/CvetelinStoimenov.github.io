@@ -3,7 +3,7 @@ layout: post
 title: "Comprehensive Testing with Playwright and QUnit"
 summary: "This article discusses the importance of robust testing in modern software development, focusing on two powerful frameworks: Playwright for end-to-end UI testing and QUnit for API testing. "
 author: stoimenov
-date: '2024-10-228 11:40:00 +0530'
+date: '2024-10-28 11:40:00 +0530'
 category: tests
 thumbnail: /assets/img/posts/playwright.png
 keywords: QA, New Career Path, Portfolio, Growth, Opportunity, Ambitions, Technology, QA Projects
