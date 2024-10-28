@@ -5,7 +5,7 @@ summary: "This article discusses the importance of robust testing in modern soft
 author: stoimenov
 date: '2024-10-28 11:40:00 +0530'
 category: tests
-thumbnail: /assets/img/posts/playwright.png
+thumbnail: /assets/img/playwright.png
 keywords: QA, New Career Path, Portfolio, Growth, Opportunity, Ambitions, Technology, QA Projects
 permalink: /blog/comprehensive-testing-with-playwright-and-qunit/
 usemathjax: true
