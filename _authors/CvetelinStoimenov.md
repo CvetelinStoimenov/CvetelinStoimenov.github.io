@@ -1,6 +1,6 @@
 ---
 name: Cvetelin Radkov Stoimenov
-username: CvetelinStoimenov
+username: stoimenov
 bio: "QA Engineer, based in Sofia, Bulgaria"
 site: https://cvetelinstoimenov.github.io/
 avatar: xplor4r.png
