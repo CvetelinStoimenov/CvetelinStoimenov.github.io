@@ -8,7 +8,7 @@ date: '2024-11-14 2:00:00 +0530'
 category: career
 thumbnail: /assets/img/posts/Python.jpg
 keywords: QA, New Career Path, Portfolio, Growth, Opportunity, Ambitions, Technology, QA Projects, Python
-permalink: /blog/comprehensive-testing-with-playwright-and-qunit/
+permalink: /blog/my-journey-into-automation-qa-with-python/
 usemathjax: true
 ---
 
