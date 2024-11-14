@@ -4,7 +4,11 @@ title: "My First Python Project: An Organization Management System"
 summary: "In this article, I’ll walk you through the process of creating the project, some of the challenges I faced, and how I approached solving them."
 author: stoimenov
 date: '2024-11-14 2:30:00 +0530'
-categories: [tests, python, projects]
+category:
+  - python
+  - projects
+  - tests
+  - portfolio
 thumbnail: /assets/img/posts/organisation.jpg
 keywords: QA, New Career Path, Portfolio, Growth, Opportunity, Ambitions, Technology, QA Projects, Python
 permalink: /blog/my-first-python-project/
