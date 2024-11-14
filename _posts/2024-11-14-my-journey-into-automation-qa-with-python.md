@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "My Journey into Automation QA with Python"
-summary: "Hello, everyone! I’m excited to share that I’ve embarked on a new learning journey: starting a course in Automation QA with Python. After completing the full QA path with C# at SoftUni, I decided to dive into Python to broaden my skill set. Although I had no prior experience with Python, I’m enjoying every step of this learning process and looking forward to applying it in real-world projects.
-"
+summary: "I share my journey of starting a course in Automation QA with Python. After completing the full QA path with C# at SoftUni, I decided to learn Python to expand my skill set. So far, I’ve been enjoying the learning process, starting with Python basics and progressing to more advanced topics. In my next article, I'll dive deeper into my first Python project, which involves building an object model of an organization and automating employee salary calculations. Stay tuned for more insights on my learning journey!"
 author: stoimenov
 date: '2024-11-14 2:00:00 +0530'
 category: career
@@ -12,6 +11,7 @@ permalink: /blog/my-journey-into-automation-qa-with-python/
 usemathjax: true
 ---
 
+Hello, everyone! I’m excited to share that I’ve embarked on a new learning journey: starting a course in **Automation QA with Python**. After completing the full **QA** path with **C#** at **SoftUni**, I decided to dive into **Python** to broaden my skill set. Although I had no prior experience with **Python**, I’m enjoying every step of this learning process and looking forward to applying it in real-world projects.
 
 ### Why Python?
 
