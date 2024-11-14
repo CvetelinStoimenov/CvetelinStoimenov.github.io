@@ -1,6 +1,6 @@
 ---
 name: Cvetelin Radkov Stoimenov
-username: CvetelinStoimenov
+username: stoimenov
 bio: "Hi I am Cvetelin, a QA Enginere."
 site: https://cvetelinstoimenov.github.io/
 avatar: johndoe.png
