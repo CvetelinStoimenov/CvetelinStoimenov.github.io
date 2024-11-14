@@ -138,8 +138,6 @@ jekyll-archives:
      category: '/category/:name/'
 
 collections:
-  categories:
-    output: true
   products:
     output: true
   authors:
