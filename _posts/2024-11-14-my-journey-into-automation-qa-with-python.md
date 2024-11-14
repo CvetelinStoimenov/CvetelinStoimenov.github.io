@@ -4,7 +4,9 @@ title: "My Journey into Automation QA with Python"
 summary: "After completing the full QA path in C# at SoftUni, I'm excited to start learning Automation QA with Python. This course will help me expand my skills in automation testing and improve my understanding of Python for QA purposes."
 author: stoimenov
 date: '2024-11-14 2:00:00 +0530'
-category: career
+category:
+  - python
+  - projects
 thumbnail: /assets/img/posts/Python.jpg
 keywords: QA, New Career Path, Portfolio, Growth, Opportunity, Ambitions, Technology, QA Projects, Python
 permalink: /blog/my-journey-into-automation-qa-with-python/
