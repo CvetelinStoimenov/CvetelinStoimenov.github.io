@@ -5,7 +5,7 @@ summary: "In this article, I’ll walk you through the process of creating the p
 author: stoimenov
 date: '2024-11-14 2:30:00 +0530'
 category: tests
-thumbnail: /assets/img/_posts/organisation.jpg
+thumbnail: /assets/img/posts/organisation.jpg
 keywords: QA, New Career Path, Portfolio, Growth, Opportunity, Ambitions, Technology, QA Projects, Python
 permalink: /blog/my-first-python-project/
 usemathjax: true
