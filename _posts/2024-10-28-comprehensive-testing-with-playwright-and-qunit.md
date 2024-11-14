@@ -4,9 +4,9 @@ title: "Comprehensive Testing with Playwright and QUnit"
 summary: "This article discusses the importance of robust testing in modern software development, focusing on two powerful frameworks: Playwright for end-to-end UI testing and QUnit for API testing. "
 author: stoimenov
 date: '2024-10-28 11:40:00 +0530'
-category: tests
+categories: [portfolio, javascript, tests, projects, playwright, qunit, api]
 thumbnail: /assets/img/playwright.png
-keywords: QA, New Career Path, Portfolio, Growth, Opportunity, Ambitions, Technology, QA Projects
+keywords: QA, Portfolio, Technology, QA Projects, Playwright, QUnit, API, Test, Postman, CI
 permalink: /blog/comprehensive-testing-with-playwright-and-qunit/
 usemathjax: true
 ---
@@ -129,7 +129,7 @@ To set up the testing environment, follow these steps:
 1.  **Clone the Repository**
     
    ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/CvetelinStoimenov/Front-End-Technologies-Basics---May-2024/tree/main/23.%20Exam/Task-2-Resources
 ``` 
     
 2.  **Install Dependencies**
