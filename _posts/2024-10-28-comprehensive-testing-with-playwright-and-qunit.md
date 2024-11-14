@@ -11,8 +11,6 @@ permalink: /blog/comprehensive-testing-with-playwright-and-qunit/
 usemathjax: true
 ---
 
-# Comprehensive Testing with Playwright and QUnit
-
 In today's fast-paced software development environment, robust testing is crucial to ensure that applications function correctly and meet user expectations. This article will explore two powerful testing frameworks, **Playwright** for end-to-end UI testing and **QUnit** for API testing, that can significantly enhance the quality of your applications.
 
 ## Introduction
