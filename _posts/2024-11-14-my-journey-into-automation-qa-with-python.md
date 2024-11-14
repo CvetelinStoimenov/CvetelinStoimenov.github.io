@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Journey into Automation QA with Python"
-summary: "I share my journey of starting a course in Automation QA with Python. After completing the full QA path with C# at SoftUni, I decided to learn Python to expand my skill set. So far, I’ve been enjoying the learning process, starting with Python basics and progressing to more advanced topics. In my next article, I'll dive deeper into my first Python project, which involves building an object model of an organization and automating employee salary calculations. Stay tuned for more insights on my learning journey!"
+summary: "After completing the full QA path in C# at SoftUni, I'm excited to start learning Automation QA with Python. This course will help me expand my skills in automation testing and improve my understanding of Python for QA purposes."
 author: stoimenov
 date: '2024-11-14 2:00:00 +0530'
 category: career
